@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codevaam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=codevaam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
